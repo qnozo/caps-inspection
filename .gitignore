@@ -4,3 +4,6 @@ report/main.aux
 report/main.synctex.gz
 report/main.tex
 report/structure.tex
+report/main.fdb_latexmk
+report/main.fls
+report/main.log
